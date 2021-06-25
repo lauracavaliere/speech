@@ -1,5 +1,6 @@
 # speechInteraction
 
+
 This folder includes different modules which use google cloud services.
 - **googleSpeechProcess**: it reveal the structure and syntax of your textual or vocal input by analyzing also the sentiments of your phrases;
 - **googleSpeech**:  it performs speech-to-text;
